@@ -1,3 +1,5 @@
+package Solution;
+
 public class NoneSafeInteger implements SafeInteger{
     private int value;
 

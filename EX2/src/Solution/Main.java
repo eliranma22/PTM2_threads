@@ -1,3 +1,5 @@
+package Solution;
+
 public class Main {
 
         public static void test(Runnable r, int amount) {

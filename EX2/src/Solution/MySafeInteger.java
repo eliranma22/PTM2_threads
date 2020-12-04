@@ -1,3 +1,5 @@
+package Solution;
+
 public class MySafeInteger implements SafeInteger {
 
     private int value;

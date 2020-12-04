@@ -1,3 +1,5 @@
+package Solution;
+
 public interface SafeInteger {
 
     public SafeInteger increment();
